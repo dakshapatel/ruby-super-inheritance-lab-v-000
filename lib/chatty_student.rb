@@ -7,8 +7,8 @@ end
 
 def raise_hand
   super
-   10.times do
-    puts "Pick me!"
+   10.times do |"Pick me!"|
+     print "Pick me!"
   end
 end
 
